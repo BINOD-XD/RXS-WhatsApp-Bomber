@@ -14,7 +14,7 @@ USE THIS APPLICATION WITH YOUR OWN RISK. BECAUSE IT'S ILLEGAL.
 
 ### Please Enable This Setting After Install.
 
-<p align="center"><img src="https://github.com/BINOD-XD/RXS-WhatsApp-Bobber/blob/main/Inkedrxs.jpg">
+<p align="center"><img src="https://github.com/BINOD-XD/RXS-WhatsApp-Bomber/blob/main/rxs.png">
 
 ### WhatsApp Bombing
 
